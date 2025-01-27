@@ -97,10 +97,11 @@ Performed customer segmentation using clustering techniques to group customers w
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd ecommerce-dataset-analysis
-Install the required Python libraries:
+
+3. Install the required Python libraries:
 
 pip install -r requirements.txt
 Run the Jupyter Notebooks in the following order:
