@@ -121,8 +121,3 @@ Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 Tools: Jupyter Notebook
 Feel free to explore the project and reach out with any questions or suggestions!
 
-vbnet
-Copy
-Edit
-
-This `README.md` template is comprehensive and adheres to best practices for documenting projects on GitHub. Let me know if you’d like any adjustments or additions!
