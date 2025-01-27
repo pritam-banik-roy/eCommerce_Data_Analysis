@@ -122,7 +122,7 @@ Performed customer segmentation using clustering techniques to group customers w
 ## Technologies Used
 - **Programming Language**: Python  
 - **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn  
-- **Tools**: Jupyter Notebook
+- **Tools**: Jupyter Notebook , Google Colab
 
 ---
 
