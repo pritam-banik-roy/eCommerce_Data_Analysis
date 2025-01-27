@@ -104,17 +104,26 @@ Performed customer segmentation using clustering techniques to group customers w
 3. Install the required Python libraries:
    ```bash
    pip install -r requirements.txt
-4. Run the Jupyter Notebooks in the following order:
-FirstName_LastName_EDA.ipynb
-FirstName_LastName_Lookalike.ipynb
-FirstName_LastName_Clustering.ipynb
-Results and Insights
-EDA Insights: Provided actionable insights into customer behaviors, regional trends, and product preferences.
-Lookalike Model: Identified customers with similar profiles for personalized recommendations.
-Customer Segmentation: Grouped customers into clusters, helping businesses target each group effectively.
-Technologies Used
-Programming Language: Python
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
-Tools: Jupyter Notebook
-Feel free to explore the project and reach out with any questions or suggestions!
 
+4. Run the Jupyter Notebooks in the following order:
+   - `FirstName_LastName_EDA.ipynb`
+   - `FirstName_LastName_Lookalike.ipynb`
+   - `FirstName_LastName_Clustering.ipynb`
+
+---
+
+## Results and Insights
+- **EDA Insights**: Provided actionable insights into customer behaviors, regional trends, and product preferences.  
+- **Lookalike Model**: Identified customers with similar profiles for personalized recommendations.  
+- **Customer Segmentation**: Grouped customers into clusters, helping businesses target each group effectively.
+
+---
+
+## Technologies Used
+- **Programming Language**: Python  
+- **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn  
+- **Tools**: Jupyter Notebook
+
+---
+
+Feel free to explore the project and reach out with any questions or suggestions!
